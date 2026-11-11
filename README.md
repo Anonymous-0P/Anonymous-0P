@@ -2,11 +2,29 @@
 
 <img src="./hero.svg?v=1" alt="Animated introduction for Prakash Karekar" width="100%">
 
+<p>
+  <a href="./assets/anti-magic-loop.mp4">▶ Download the 3-second anti-magic hero loop</a>
+</p>
+
 <img src="./about-life.svg?v=1" alt="About Prakash and life beyond code" width="100%">
 
 <img src="./stack.svg?v=1" alt="Technology orbit" width="100%">
 
 <img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%">
+
+## Original fantasy artwork
+
+These rendered PNGs are the downloadable art artifacts behind the animated
+profile sections. They use original Magic Knight-inspired vector artwork,
+not unlicensed anime character assets.
+
+| Hero title card | Grimoire | Magic attributes |
+|---|---|---|
+| ![Hero title card](./assets/hero-art.png?v=2) | ![Grimoire](./assets/grimoire-art.png?v=2) | ![Magic attributes](./assets/attributes-art.png?v=2) |
+
+| Magic Knight dossier | Ending scene |
+|---|---|
+| ![Magic Knight dossier](./assets/dossier-art.png?v=2) | ![Ending scene](./assets/ending-art.png?v=2) |
 
 ## The Magic Knight behind the grimoire
 
