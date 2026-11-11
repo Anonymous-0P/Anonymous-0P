@@ -8,23 +8,25 @@
 
 <img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%">
 
-## About me
+## The Magic Knight behind the grimoire
 
 I’m **Prakash Karekar**, a Software Developer based in **Belagavi**. I build
-software, explore cloud computing, and enjoy creating mobile experiences.
-I’m currently learning and growing through practical engineering work.
+software, explore cloud computing, and create mobile experiences. This profile
+uses an original dark-fantasy Magic Knight art direction inspired by anime
+grimoires and manga title cards; it does not use unlicensed character artwork.
 
-**Beyond the code:** `[add hobby 1]` · `[add hobby 2]` · `[add hobby 3]`
+The themed language is visual storytelling only. Skills, links, projects, and
+repository data remain factual.
 
-## Featured projects
+## Magic Knight missions
 
-| Project | Description | Technology stack | Repository |
-|---|---|---|---|
-| Rotra Logistics | Featured project supplied in the profile brief; details are intentionally kept factual until verified. | Add verified stack | [Anonymous-0P](https://github.com/Anonymous-0P) |
+| Mission | Verified record | Repository |
+|---|---|---|
+| Rotra Logistics | Featured project named by the profile owner; description and stack were not supplied. | [Anonymous-0P](https://github.com/Anonymous-0P) |
 
-> Repository statistics, achievements, and additional projects are intentionally omitted until verified from GitHub.
+No repository statistics or achievements are shown unless they can be verified.
 
-## 3D contribution city
+## Kingdom of commits
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D GitHub contribution city" width="100%">
 

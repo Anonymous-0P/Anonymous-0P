@@ -1,1 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="t d"><title id="t">Prakash Karekar — Software Developer</title><desc id="d">Midnight glass animated introduction.</desc><defs><linearGradient id="g"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient><pattern id="p" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a78bfa" opacity=".18"/></pattern><style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:ui-monospace,Consolas,monospace}@keyframes pulse{50%{opacity:.3;transform:scale(.7)}}@keyframes scan{to{transform:translateY(270px)}}.pulse{animation:pulse 2s infinite}.scan{animation:scan 4s linear infinite}</style></defs><rect width="1200" height="520" rx="28" fill="#0d0e16"/><rect width="1200" height="520" rx="28" fill="url(#p)"/><rect x="28" y="28" width="1144" height="464" rx="22" fill="#151627" stroke="url(#g)"/><circle cx="74" cy="74" r="7" fill="#22d3ee" class="pulse"/><text x="92" y="80" fill="#22d3ee" class="s" font-size="13" letter-spacing="2">OPEN TO COLLABORATIONS</text><text x="74" y="160" fill="#b8bad0" class="s" font-size="28">Hi there, I’m</text><text x="72" y="225" fill="url(#g)" class="s" font-size="66" font-weight="800">Prakash Karekar</text><text x="76" y="272" fill="#fff" class="s" font-size="22">Software Developer · Cloud &amp; Mobile Builder</text><text x="76" y="319" fill="#b8bad0" class="s" font-size="17">I turn practical ideas into reliable, human-centred software.</text><text x="76" y="374" fill="#b8bad0" class="s" font-size="16">⌖ Belagavi   ◈ github.com/Anonymous-0P   ◇ prakashkarekar.dev</text><text x="76" y="435" fill="#a78bfa" class="m" font-size="13">ROLE:// SOFTWARE_DEVELOPER_</text><g transform="translate(815 104)"><rect width="290" height="306" rx="18" fill="#141526" stroke="#22d3ee"/><path d="M22 22h35M22 22v35M268 22h-35M268 22v35M22 284h35M22 284v-35M268 284h-35M268 284v-35" fill="none" stroke="#22d3ee" stroke-width="3"/><circle cx="145" cy="120" r="66" fill="#252641" stroke="url(#g)" stroke-width="3"/><circle cx="145" cy="108" r="25" fill="#a78bfa" opacity=".7"/><path d="M92 177q53-62 106 0v34H92z" fill="#22d3ee" opacity=".55"/><text x="145" y="258" text-anchor="middle" fill="#fff" class="s" font-size="17">PORTRAIT FALLBACK</text><text x="145" y="280" text-anchor="middle" fill="#8d8fa8" class="m" font-size="11">replace with assets/portrait.png</text><text x="22" y="300" fill="#f472b6" class="m" font-size="10">REC ● 00:04</text><rect x="22" y="314" width="246" height="3" rx="2" fill="#303149"/><rect x="22" y="314" width="84" height="3" rx="2" fill="#22d3ee"><animate attributeName="width" values="20;246;20" dur="4s" repeatCount="indefinite"/></rect></g><rect x="52" y="106" width="710" height="2" fill="#22d3ee" opacity=".35" class="scan"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">Prakash Karekar — The Anti-Magic Developer</title>
+<desc id="desc">An original dark-fantasy Magic Knight title card for a software developer.</desc>
+<defs>
+ <linearGradient id="heroPaper" x2="0" y2="1"><stop stop-color="#272219"/><stop offset="1" stop-color="#0b0b0b"/></linearGradient>
+ <linearGradient id="heroGold"><stop stop-color="#f2e9d8"/><stop offset=".5" stop-color="#c9a45c"/><stop offset="1" stop-color="#7a5524"/></linearGradient>
+ <radialGradient id="heroRed"><stop stop-color="#c72c35" stop-opacity=".35"/><stop offset="1" stop-color="#090909" stop-opacity="0"/></radialGradient>
+ <pattern id="heroInk" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 34L38 4M-8 22L14 0M24 38L38 24" stroke="#e6d8b8" stroke-opacity=".04"/></pattern>
+ <filter id="heroBlur"><feGaussianBlur stdDeviation="9"/></filter>
+ <style>
+  .serif{font-family:Georgia,'Times New Roman',serif}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:ui-monospace,Consolas,monospace}
+  @keyframes heroFloat{50%{transform:translateY(-8px) rotate(1deg)}} @keyframes heroSpin{to{transform:rotate(360deg)}}
+  @keyframes heroInk{from{stroke-dashoffset:480}to{stroke-dashoffset:0}} .float{animation:heroFloat 5s ease-in-out infinite}.spin{animation:heroSpin 32s linear infinite;transform-origin:930px 275px}
+  .trace{stroke-dasharray:480;animation:heroInk 4s ease-out both}
+ </style>
+</defs>
+<rect width="1200" height="560" fill="#090909"/><rect width="1200" height="560" fill="url(#heroInk)"/>
+<path d="M0 0H1200V52L1120 0zM0 560h1200v-52l-90 52z" fill="#171717"/>
+<ellipse cx="950" cy="275" rx="300" ry="250" fill="url(#heroRed)" filter="url(#heroBlur)"/>
+<path d="M42 54H1158M42 506H1158" stroke="#c9a45c" stroke-opacity=".6"/>
+<path d="M42 54l35 0m-35 0v35m1116-35h-35m35 0v35M42 506h35m-35 0v-35m1116 35h-35m35 0v-35" fill="none" stroke="#e6d8b8" stroke-width="2"/>
+<g transform="translate(78 92)">
+ <text class="sans" fill="#c72c35" font-size="13" letter-spacing="4">CHAPTER 01 · MAGIC KNIGHT DOSSIER</text>
+ <text y="78" class="serif" fill="#f2e9d8" font-size="26">THE ANTI-MAGIC</text>
+ <text y="154" class="serif" fill="url(#heroGold)" font-size="74" font-weight="700">DEVELOPER</text>
+ <path d="M0 178H530" stroke="#c72c35" stroke-width="3"/>
+ <text y="225" class="serif" fill="#e6d8b8" font-size="34">Prakash Karekar</text>
+ <text y="265" class="sans" fill="#a8a39a" font-size="16">Software Developer · Cloud Computing · Mobile Development</text>
+ <text y="314" class="sans" fill="#e6d8b8" font-size="16">Belagavi  /  Anonymous-0P  /  prakashkarekar.dev</text>
+ <text y="385" class="mono" fill="#c9a45c" font-size="13">A grimoire of practical ideas, built one spell at a time.</text>
+</g>
+<g class="spin" opacity=".8" fill="none" stroke="#c9a45c" stroke-opacity=".45">
+ <circle cx="930" cy="275" r="180" stroke-width="2"/><circle cx="930" cy="275" r="145" stroke-dasharray="3 14"/><path d="M930 82l20 52 54 20-54 20-20 54-20-54-54-20 54-20z"/>
+</g>
+<g class="float">
+ <path d="M855 180Q930 120 1008 180L1044 398Q930 466 816 398z" fill="#171717" stroke="#c72c35" stroke-width="4"/>
+ <path d="M855 180l75 38 78-38-22 221-56 38-54-38z" fill="#301419" opacity=".9"/>
+ <path d="M892 222q38-55 76 0v65h-76z" fill="#f2e9d8"/><path d="M904 236l16-12 16 12-16 13z" fill="#090909"/><path d="M891 289h78l-12 85h-54z" fill="#090909"/>
+ <path d="M1009 210l115-112" stroke="#a8a39a" stroke-width="7"/><path d="M1123 98l18 22-18 17-18-22z" fill="#c9a45c"/>
+ <g transform="translate(780 116) rotate(-12)"><path d="M0 0q68-24 118 18l-15 148q-52-30-104-6z" fill="#201c16" stroke="#c9a45c" stroke-width="2"/><path d="M55-8l20 160" stroke="#c9a45c"/><path d="M18 45h28m-24 28h34m28-20h24m-26 28h32" stroke="#c72c35" stroke-width="3"/></g>
+</g>
+<text x="78" y="506" class="mono" fill="#a8a39a" font-size="11" letter-spacing="2">ORIGINAL FANTASY-KNIGHT ART DIRECTION · NO LICENSED CHARACTER ART USED</text>
+</svg>
