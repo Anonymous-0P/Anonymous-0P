@@ -12,6 +12,8 @@ jobs:
   profile-3d:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
       - name: Generate contribution city
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
