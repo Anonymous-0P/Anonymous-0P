@@ -1,5 +1,9 @@
-# Optional profile media
+# Profile media
 
-SVG-native fallbacks are used so the profile renders without personal media.
-Replace these with real files when available: `portrait.png`, `pointing.png`,
-and `wave.mp4`. Never use text files with raster or video extensions.
+`portrait.png` and `pointing.png` are generated synthetic neon illustrations,
+not personal photographs. Replace them with real artwork whenever desired.
+
+No audio track is required by the GitHub profile, and no MP4 was fabricated
+without a source video or local encoder. The profile uses the animated SVG
+fallback in `hero.svg`, which renders natively on GitHub without JavaScript,
+video elements, or an ongoing server.
