@@ -1,15 +1,12 @@
 # Profile media
 
-`portrait.png` and `pointing.png` are generated synthetic neon illustrations,
-not personal photographs. The redesigned SVGs use original vector fantasy
-figures as their primary artwork, so these raster files remain optional and
-replaceable.
+The active profile now uses the supplied `hero-banner.png`,
+`about-grimoire.png`, `skills-magic-circle.png`, `projects-mission-board.png`,
+`contributions-kingdom.png`, `contact-banner.png`, and portrait assets.
 
-The rendered section art is available as `hero-art.png`, `grimoire-art.png`,
-`attributes-art.png`, `dossier-art.png`, and `ending-art.png`. The
-`anti-magic-loop.mp4` file is a three-second cinematic zoom of the original
-hero artwork; GitHub README rendering uses the SVG, while the MP4 remains
-available as a downloadable artifact.
+The supplied `gemini_generated_video_967f96b0.mp4` is linked from the README
+using `hero-banner.png` as its clickable poster. GitHub README images cannot
+autoplay MP4 files, so the video is intentionally opened as a link.
 
 No audio track is used: GitHub profile images do not autoplay audio, and
 adding sound would reduce compatibility and accessibility.
