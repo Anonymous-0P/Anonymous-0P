@@ -2,12 +2,11 @@
 
 <img src="./hero.svg?v=3" alt="Animated introduction for Prakash Karekar" width="100%">
 
-<p>
-  <a href="./assets/gemini_generated_video_967f96b0.mp4">
-    <img src="./assets/hero-banner.png?v=3" alt="Play the supplied anti-magic hero video" width="100%">
-  </a><br>
-  <a href="./assets/gemini_generated_video_967f96b0.mp4">▶ Watch the supplied 10-second hero video</a>
-</p>
+<video controls muted loop playsinline preload="metadata" poster="./assets/hero-banner.png" width="100%">
+  <source src="./assets/gemini_generated_video_967f96b0.mp4" type="video/mp4">
+  Your browser can open the supplied hero video here:
+  <a href="./assets/gemini_generated_video_967f96b0.mp4">watch the MP4</a>
+</video>
 
 <img src="./assets/decorative-assets/five-leaf-clover-emblem.png?v=3" alt="Five-leaf grimoire emblem" width="110">
 <img src="./assets/decorative-assets/crimson-divider-bar.png?v=3" alt="" width="70%">

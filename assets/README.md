@@ -1,12 +1,14 @@
 # Profile media
 
-The active profile now uses the supplied `hero-banner.png`,
+The README artwork gallery uses the supplied `hero-banner.png`,
 `about-grimoire.png`, `skills-magic-circle.png`, `projects-mission-board.png`,
-`contributions-kingdom.png`, `contact-banner.png`, and portrait assets.
+`contributions-kingdom.png`, `contact-banner.png`, and portrait assets. The
+main SVG sections keep their own readable compositions so baked-in text from
+source artwork cannot collide with or crop the profile copy.
 
-The supplied `gemini_generated_video_967f96b0.mp4` is linked from the README
-using `hero-banner.png` as its clickable poster. GitHub README images cannot
-autoplay MP4 files, so the video is intentionally opened as a link.
+The supplied `gemini_generated_video_967f96b0.mp4` is embedded with native
+controls and the hero banner as its poster. GitHub may sanitize video playback
+in some profile views; the fallback link remains available in the video block.
 
 No audio track is used: GitHub profile images do not autoplay audio, and
 adding sound would reduce compatibility and accessibility.
