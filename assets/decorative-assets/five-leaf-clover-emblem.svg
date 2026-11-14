@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <radialGradient id="crimsonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#dc143c" stop-opacity="0.55"/>
+      <stop offset="70%" stop-color="#8b0000" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldTrim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3d078"/>
+      <stop offset="50%" stop-color="#c59b27"/>
+      <stop offset="100%" stop-color="#7a5c12"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="118" fill="url(#crimsonGlow)"/>
+  <circle cx="128" cy="128" r="108" fill="none" stroke="url(#goldTrim)" stroke-width="2" stroke-dasharray="8 4"/>
+  <circle cx="128" cy="128" r="96" fill="none" stroke="#dc143c" stroke-width="1.2" stroke-opacity="0.75"/>
+  <g transform="translate(128,128)" fill="#0d0d0f" stroke="url(#goldTrim)" stroke-width="2.5">
+    <!-- 5 Leaves of the Anti-Magic Grimoire Clover -->
+    <path d="M0,0 C-18,-35 -35,-70 0,-78 C35,-70 18,-35 0,0 Z" transform="rotate(0)"/>
+    <path d="M0,0 C-18,-35 -35,-70 0,-78 C35,-70 18,-35 0,0 Z" transform="rotate(72)"/>
+    <path d="M0,0 C-18,-35 -35,-70 0,-78 C35,-70 18,-35 0,0 Z" transform="rotate(144)"/>
+    <path d="M0,0 C-18,-35 -35,-70 0,-78 C35,-70 18,-35 0,0 Z" transform="rotate(216)"/>
+    <path d="M0,0 C-18,-35 -35,-70 0,-78 C35,-70 18,-35 0,0 Z" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="9" fill="#dc143c" stroke="url(#goldTrim)" stroke-width="2"/>
+  </g>
+</svg>
