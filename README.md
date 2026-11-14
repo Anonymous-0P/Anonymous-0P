@@ -1,65 +1,78 @@
 <div align="center">
 
-<img src="./hero.svg?v=3" alt="Animated introduction for Prakash Karekar" width="100%">
+<p>
+  <img src="./assets/hero-banner.png?v=4" alt="Magic Knight Developer Banner" width="100%">
+</p>
 
-<video controls muted loop playsinline preload="metadata" poster="./assets/hero-banner.png" width="100%">
-  <source src="./assets/gemini_generated_video_967f96b0.mp4" type="video/mp4">
-  Your browser can open the supplied hero video here:
-  <a href="./assets/gemini_generated_video_967f96b0.mp4">watch the MP4</a>
-</video>
+<p>
+  <a href="./assets/gemini_generated_video_967f96b0.mp4">
+    <img src="./assets/hero-banner.png?v=4" alt="Open the supplied hero video" width="100%">
+  </a>
+</p>
 
-<img src="./assets/decorative-assets/five-leaf-clover-emblem.png?v=3" alt="Five-leaf grimoire emblem" width="110">
-<img src="./assets/decorative-assets/crimson-divider-bar.png?v=3" alt="" width="70%">
+<p>
+  <img src="./assets/developer-portrait.png?v=4" alt="Developer portrait" width="180">
+</p>
 
-<img src="./about-life.svg?v=3" alt="About Prakash and life beyond code" width="100%">
+<p>
+  <img src="./assets/decorative-assets/five-leaf-clover-emblem.png?v=4" alt="Five-leaf grimoire emblem" width="96">
+</p>
 
-<img src="./stack.svg?v=3" alt="Technology orbit" width="100%">
+## About Me
 
-<img src="./id-dashboard.svg?v=3" alt="Developer ID and dashboard" width="100%">
+I’m **Prakash Karekar**, a **Software Developer** based in **Belagavi**.
+I build software, explore cloud computing, and create mobile experiences.
+This profile uses a dark-fantasy Magic Knight visual direction while keeping
+the professional information and links factual.
 
-## Supplied fantasy artwork
+<p>
+  <img src="./assets/about-grimoire.png?v=4" alt="The Grimoire of Skills" width="100%">
+</p>
 
-These sections now use the supplied fantasy artwork and decorative assets.
-The source SVGs add only restrained motion overlays for GitHub compatibility.
+## Developer Identity
 
-| Hero banner | Grimoire | Magic attributes |
-|---|---|---|
-| ![Hero banner](./assets/hero-banner.png?v=3) | ![Grimoire](./assets/about-grimoire.png?v=3) | ![Magic attributes](./assets/skills-magic-circle.png?v=3) |
+<p>
+  <img src="./assets/id-portrait.png?v=4" alt="Developer identity portrait" width="220">
+</p>
 
-| Mission board | Kingdom of commits | Contact banner |
-|---|---|---|
-| ![Mission board](./assets/projects-mission-board.png?v=3) | ![Kingdom of commits](./assets/contributions-kingdom.png?v=3) | ![Contact banner](./assets/contact-banner.png?v=3) |
+## Technology Stack
 
-## The Magic Knight behind the grimoire
+<p>
+  <img src="./assets/skills-magic-circle.png?v=4" alt="Magic Attribute technology system" width="100%">
+</p>
 
-I’m **Prakash Karekar**, a Software Developer based in **Belagavi**. I build
-software, explore cloud computing, and create mobile experiences. This profile
-uses an original dark-fantasy Magic Knight art direction inspired by anime
-grimoires and manga title cards; it does not use unlicensed character artwork.
+## Featured Projects
 
-The themed language is visual storytelling only. Skills, links, projects, and
-repository data remain factual.
-
-## Magic Knight missions
+<p>
+  <img src="./assets/projects-mission-board.png?v=4" alt="Magic Knight project mission board" width="100%">
+</p>
 
 | Mission | Verified record | Repository |
 |---|---|---|
 | Rotra Logistics | Featured project named by the profile owner; description and stack were not supplied. | [Anonymous-0P](https://github.com/Anonymous-0P) |
 
-No repository statistics or achievements are shown unless they can be verified.
+No repository statistics or achievements are shown unless verified.
 
-## Kingdom of commits
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D GitHub contribution city" width="100%">
-
-<img src="./assets/contributions-kingdom.png?v=3" alt="Supplied kingdom of commits artwork" width="100%">
-
-<img src="./connect.svg?v=3" alt="Contact Prakash Karekar" width="100%">
+## GitHub Contributions
 
 <p>
-<a href="https://github.com/Anonymous-0P">GitHub</a> ·
-<a href="mailto:prakashkarekar4@gmail.com">Email</a> ·
-<a href="https://www.prakashkarekar.dev/">Portfolio</a>
+  <img src="./assets/contributions-kingdom.png?v=4" alt="Kingdom of commits artwork" width="100%">
+</p>
+
+<p>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=3" alt="3D GitHub contribution city" width="100%">
+</p>
+
+## Connect With Me
+
+<p>
+  <img src="./assets/contact-banner.png?v=4" alt="Contact banner" width="100%">
+</p>
+
+<p>
+  <a href="https://github.com/Anonymous-0P">GitHub</a> ·
+  <a href="mailto:prakashkarekar4@gmail.com">Email</a> ·
+  <a href="https://www.prakashkarekar.dev/">Portfolio</a>
 </p>
 
 </div>
