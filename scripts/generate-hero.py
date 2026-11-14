@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Check optional hero media without requiring a runtime server."""
+"""Check the supplied hero media without requiring a runtime server."""
 from pathlib import Path
 import shutil
 
 root = Path(__file__).resolve().parents[1]
-video = root / "assets" / "wave.mp4"
-print("wave.mp4 present:", video.exists())
+video = root / "assets" / "gemini_generated_video_967f96b0.mp4"
+print("supplied hero video present:", video.exists())
 print("ffmpeg available:", bool(shutil.which("ffmpeg")))
-print("hero.svg keeps its SVG portrait fallback until media is supplied.")
+print("README uses the supplied MP4 with a poster and native controls.")
