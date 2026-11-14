@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
-"""Validate SVG XML, viewBoxes, IDs, and local README references."""
+"""Validate local README references and any remaining SVGs."""
 from pathlib import Path
 import re
 import sys
 import xml.etree.ElementTree as ET
 
 root = Path(__file__).resolve().parents[1]
-files = ["hero.svg", "about-life.svg", "stack.svg", "id-dashboard.svg", "connect.svg"]
+files = sorted(root.glob("*.svg"))
 ok = True
-for name in files:
-    path = root / name
+for path in files:
     try:
         tree = ET.parse(path)
         view_box = tree.getroot().get("viewBox", "")
@@ -18,10 +17,10 @@ for name in files:
         ids = re.findall(r'\bid="([^"]+)"', path.read_text(encoding="utf-8"))
         if len(ids) != len(set(ids)):
             raise ValueError("duplicate IDs")
-        print("PASS", name)
+        print("PASS", path.name)
     except Exception as exc:
         ok = False
-        print("FAIL", name, exc)
+        print("FAIL", path.name, exc)
 
 readme = (root / "README.md").read_text(encoding="utf-8")
 for ref in re.findall(r"\]\(\./([^?)]+)", readme):
